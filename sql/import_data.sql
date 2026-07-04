@@ -1,0 +1,1 @@
+-- Import cleaned_sales.csv using MySQL Workbench
